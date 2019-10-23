@@ -1,0 +1,24 @@
+{
+  "name": "parking-lot-template-ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node ./config.js",
+    "test": "ts-jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.19",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-typescript": "^7.6.0",
+    "@types/node": "^12.11.5",
+    "babel-jest": "^24.9.0"
+  }
+}
